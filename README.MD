@@ -7,4 +7,5 @@ Tools:
 - standard shell utilities such as echo, grep, and cat
 - netcat (nc) as a listener
 
+Vulnerabilities Discovered:
 IDOR - Insecure Direct Object Reference. Ex: endpoint id = 1. You can see things you shouldn't.
